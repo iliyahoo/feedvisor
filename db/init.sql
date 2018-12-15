@@ -11,3 +11,13 @@ INSERT INTO favorite_colors
 VALUES
   ('Lancelot', 'blue'),
   ('Galahad', 'yellow');
+
+
+CREATE TABLE feedvisor (
+  views INT
+);
+
+INSERT INTO feedvisor
+  (views)
+VALUES
+  (0);
